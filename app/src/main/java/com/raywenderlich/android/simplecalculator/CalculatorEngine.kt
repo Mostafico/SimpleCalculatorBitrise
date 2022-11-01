@@ -41,6 +41,8 @@ class CalculatorEngine {
   var operator: Char? = '+'
   var isInInvalidState = false
 
+  //added some comments for a new version
+
   fun calculate(value: String): String {
     val operation = when (operator) {
       '+' -> AddOperator
