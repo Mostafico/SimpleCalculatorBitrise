@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "331757076427",
+    "firebase_url": "https://hybrid-shelter-275808.firebaseio.com",
+    "project_id": "hybrid-shelter-275808",
+    "storage_bucket": "hybrid-shelter-275808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331757076427:android:d2981f8067b390e94c804e",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.android.simplecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331757076427-cp37mat51qt1in5dnca1ah4onngmlmn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-tp5a2O79PrqCx1IQyIGiOJwVea6SiNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331757076427-cp37mat51qt1in5dnca1ah4onngmlmn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
