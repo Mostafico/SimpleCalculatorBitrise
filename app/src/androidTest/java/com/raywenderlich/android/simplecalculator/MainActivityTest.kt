@@ -41,6 +41,7 @@ import org.junit.Test
 
 class MainActivityTest : TestCase() {
 
+  //Using instrumentation testing
   @get:Rule
   val activityTestRule = ActivityTestRule(MainActivity::class.java, true, false)
 
