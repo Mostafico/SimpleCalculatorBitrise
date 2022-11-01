@@ -38,4 +38,5 @@ dependencies {
   androidTestImplementation 'com.kaspersky.android-components:kaspresso:1.1.0'
 
   implementation platform('com.google.firebase:firebase-bom:31.0.2')
+    androidTestImplementation project(path: ':app')
 }
