@@ -42,6 +42,7 @@ class CalculatorEngine {
   var isInInvalidState = false
 
   //added some comments for a new version
+  //this is a second comment
 
   fun calculate(value: String): String {
     val operation = when (operator) {
