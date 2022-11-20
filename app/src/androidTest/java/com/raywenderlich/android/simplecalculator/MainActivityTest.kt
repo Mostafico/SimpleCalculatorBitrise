@@ -51,6 +51,7 @@ class MainActivityTest : TestCase() {
   // dev second global commit
 
   // dev new commit a
+  // dev new commit b
   @Test
   fun testMainActivity() {
     before {
