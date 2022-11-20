@@ -45,6 +45,7 @@ class MainActivityTest : TestCase() {
   @get:Rule
   val activityTestRule = ActivityTestRule(MainActivity::class.java, true, false)
   // first commit in feature a
+  // second commit in feature a
 
   // dev first commit global
   // dev second global commit
