@@ -44,7 +44,7 @@ class MainActivityTest : TestCase() {
   //Using instrumentation testing
   @get:Rule
   val activityTestRule = ActivityTestRule(MainActivity::class.java, true, false)
-
+  // dev first commit global
   @Test
   fun testMainActivity() {
     before {
