@@ -39,4 +39,5 @@ dependencies {
 
   implementation platform('com.google.firebase:firebase-bom:31.0.2')
     androidTestImplementation project(path: ':app')
+    androidTestImplementation project(path: ':app')
 }
